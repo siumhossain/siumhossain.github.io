@@ -1,5 +1,5 @@
 # siumhossain.github.io
-**Personal Documantation Practice**
+**Personal documentation Practice**
 <p>Visit</p>
 [website link](https://siumhossain.github.io/)
 
